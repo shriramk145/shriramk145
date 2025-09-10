@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Shriram Kulkarni
+#  Hi , I'm Shriram Kulkarni
 
 🔥 Passionate about Data Science & Analytics & Data Engineering (Python, SQL, ML, PowerBI, AWS, PySpark, Kafka)<br>⚡ Experienced in building real-world AIML projects and data driven dashboards<br>🌱 I’m currently learning GenAI, AgenticAI, Big Data <br>
 
